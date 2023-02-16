@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá! Eu sou o Guilherme Soares ✌️
 
-<!--
-**guilhermefonseca1/guilhermefonseca1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor de software, atualmente resido em Contagem, Minas Gerais. Graduado em Engenharia de Materiais. E Já na graduação, percebi o quanto é divertido e facinante a programação, por meio de simulações de estruturas dos materiais.
 
-Here are some ideas to get you started:
+🖥️ Atualmente sou desenvolvedor full stack em formação na @betrybe.</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Principais tecnologias: Javascript, React, NodeJS, MySQL, CSS, Docker. 🔥
+
+### 🚀 Tecnologias que estou aprendendo: Python, Sequelize, MongoDB, Typescript. 🔥
+
+🚀 Também já trabalhei com ferramentas de metodologias ágeis, como, por exmplo, trello.
+
+![guilhermefonseca1 GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermefonseca1&show_icons=true&theme=dracula)
+
+
+![image](https://user-images.githubusercontent.com/98996583/219260436-524b2e03-5c1c-4e3a-97dd-653c0ddde594.png)
+![image](https://user-images.githubusercontent.com/98996583/219261290-3d0a5eae-e4c7-4789-8b7b-3787053b206b.png)
+![image](https://user-images.githubusercontent.com/98996583/219261384-fd3b1148-2df5-4ae0-8bd7-17597734a326.png)
